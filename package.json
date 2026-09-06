@@ -1,0 +1,23 @@
+{
+  "name": "playwright_wiki",
+  "version": "1.0.0",
+  "description": "somewhere between an llm wiki and a playwright test suite lies this repo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyMReyes/playwright_wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TonyMReyes/playwright_wiki/issues"
+  },
+  "homepage": "https://github.com/TonyMReyes/playwright_wiki#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.1"
+  }
+}
